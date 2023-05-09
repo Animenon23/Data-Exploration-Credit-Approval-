@@ -1,2 +1,2 @@
-# Credit-Approval-EDA-Case-Study
-The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it as their advantage by becoming a defaulter. Used Exploratory Data Analysis to analyse the patterns present in the data. This will ensure that the applicants capable of repaying the loan are not rejected.
+# Credit-Approval EDA
+Used Exploratory Data Analysis to analyse the patterns present in the data. This will ensure that the applicants capable of repaying the loan are not rejected.
